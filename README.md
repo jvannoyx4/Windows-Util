@@ -1,9 +1,9 @@
-# Chris Titus Tech Windows Utility
+# WKI Kenworth Windows Utility
 
 Launch Command:
 
 ```
-iwr -useb https://christitus.com/win | iex
+iwr -useb https://github.com/jvannoyx4/Windows-Util/blob/main/winutil.ps1 | iex
 ```
 
 ## Issues
