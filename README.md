@@ -3,7 +3,7 @@
 Launch Command:
 
 ```
-iwr -useb https://github.com/jvannoyx4/Windows-Util/blob/main/winutil.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/jvannoyx4/Windows-Util/main/winutil.ps1 | iex
 ```
 
 ## Issues
